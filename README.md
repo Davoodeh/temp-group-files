@@ -11,8 +11,17 @@
 
 
     - write your URLs here:
-        1.
+    -- link below will be helpful "how to" have persian NLP
+        1. https://github.com/mhbashari/awesome-persian-nlp-ir
         
+        
+        
+## Key Terms 
+    - There are some Key Terms about "Hey NLP, well but... some key terms i should learn for now!"
+    - Following link can help you to learn some terminology.
+    -- 
+
+
 
 ## TEXT-GEN dont change this it's mine :) :
     - chat bot with transformers
@@ -22,7 +31,7 @@
     
     - Search in (Github, Paperwithcode, KDnuggets, Medium, Towardsdatascinece, Youtube)
     - write your URLs here:
-        1.
+        1.https://github.com/mhbashari/awesome-persian-nlp-ir
         
  - the Best language model for farsi:
     * Offical BERT multi-lang [here](https://github.com/google-research/bert/blob/master/multilingual.md)
@@ -37,3 +46,5 @@
    
    
 ## Yo Yasin add your Session Here baby:
+
+
