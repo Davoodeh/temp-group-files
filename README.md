@@ -14,16 +14,19 @@
         1.
         
 
-## Chat Bot(q/a) dont change this it's mine :) :
+## TEXT-GEN dont change this it's mine :) :
     - chat bot with transformers
-    - use bert for chat bot
-    - chat bot vs Q/A
-    - check sci2lab & ParsBERT (or write both of them)
+    - state of the art Q/A
     - create a good tokenizer
+    - my notes about NLP
     
     - Search in (Github, Paperwithcode, KDnuggets, Medium, Towardsdatascinece, Youtube)
     - write your URLs here:
         1.
+        
+    - the Best language model for farsi:
+        1. Offical BERT multi-lang [here](https://github.com/google-research/bert/blob/master/multilingual.md)
+        2. ParsBERT [here](https://github.com/hooshvare/parsbert)
         
 
 
