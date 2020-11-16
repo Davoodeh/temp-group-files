@@ -11,15 +11,17 @@
 
 
     - write your URLs here:
-    -- link below will be helpful "how to" have persian NLP
+    -- link below will be helpful "how to" have Persian NLP
         1. https://github.com/mhbashari/awesome-persian-nlp-ir
         
         
         
 ## Key Terms 
-    - There are some Key Terms about "Hey NLP, well but... some key terms i should learn for now!"
-    - Following link can help you to learn some terminology.
-[NLP key terms](https://github.com/Davoodeh/temp-group-files/blob/master/KnowledgeLinks/KeyTerms.md)
+
+There are some Key Terms about "Hey NLP, well but... some key terms i should learn for now!"
+   Following link can help you to learn some terminology.
+[NLP key terms](https://github.com/AlirezaSoltaniNeshan/temp-group-files/blob/master/KnowledgeLinks/KeyTerms.md)
+
 
 ## TEXT-GEN dont change this it's mine :) :
     - chat bot with transformers
