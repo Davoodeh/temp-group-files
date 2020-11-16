@@ -25,8 +25,8 @@
         1.
         
     - the Best language model for farsi:
-        1. Offical BERT multi-lang [here](https://github.com/google-research/bert/blob/master/multilingual.md)
-        2. ParsBERT [here](https://github.com/hooshvare/parsbert)
+        * Offical BERT multi-lang [here](https://github.com/google-research/bert/blob/master/multilingual.md)
+        * ParsBERT [here](https://github.com/hooshvare/parsbert)
         
 
 
