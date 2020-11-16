@@ -18,3 +18,20 @@ There are some important notes about that:
    
 [stemming of words](https://fa.wikipedia.org/wiki/%D8%B1%DB%8C%D8%B4%D9%87_(%D8%B2%D8%A8%D8%A7%D9%86%E2%80%8C%D8%B4%D9%86%D8%A7%D8%B3%DB%8C))
 
+  ## Lemmatization
+  For this section i haven't any explan (for now) but...
+  
+  For example, stemming the word of better would fail to return its citation form another word for lemma. better convert to good
+  
+  ## Corpus
+  In linguistics and NLP, corpus (literally Latin for body) refers to a collection of texts. Such collections may be formed of a single language of texts, or can span multiple languages -- there are numerous reasons for which multilingual corpora (the plural of corpus) may be useful. Corpora may also consist of themed texts (historical, Biblical, etc.). Corpora are generally solely used for statistical linguistic analysis and hypothesis testing.
+  
+  ## Parts of speech (PoS) Tagging
+  PoS tagging consists of assigning a category tag the tokenized parts of a sentences.  
+  The most popular PoS tagging would be identifying words as nouns, verbs, adj and etc...
+  
+  
+  ## Statistical Language Modeling
+  
+  
+  
