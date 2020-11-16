@@ -32,6 +32,46 @@ There are some important notes about that:
   
   
   ## Statistical Language Modeling
+  Statistical Language Model is the process of building a statistical language model which is meant to provide an estimate of a natural language. For a sequence of input words,  the model would assign a probability to the entire sequence, which contributes to the estimated likelihood of various possible sequences. This can be especially useful for NLP applications which generate text.
+
+
+  ##  Bag of Words
+  Bag of words is a particular representation model used to simplify the contents of a selection of text. The bag of words model omits grammar and word order, but is interested in the number of occurrences of words within the text. The ultimate representation of the text selection is that of a bag of words (bag referring to the set theory concept of multisets, which differ from simple sets).
   
+"Well, well, well," said John
+
+"There, there," said James. "There, there."
+
+The resulting bag of words representation as a dictionary:
+
+    {
+      'well': 3,
+      
+      'said': 2,
+      
+      'john': 1,
+      
+      'there': 4,
+      
+      'james': 1
+      }
+      
+
+## n-grams 
+n-grams is another representation model for simplifying text selection contents. As opposed to the orderless representation of bag of words, n-grams modeling is interested in preserving contiguous sequences of N items from the text selection.
+
+In simpler terms, that use sequece of sentences and change place of words together.
   
-  
+"Well, well, well," said John
+
+"There, there," said James. "There, there."
+
+    [
+      "there there said",
+      
+      "there said james",
+      
+      "said james there",
+      
+      "james there there",
+    ]
