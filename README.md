@@ -24,9 +24,10 @@
     - write your URLs here:
         1.
         
-    - the Best language model for farsi:
-        * Offical BERT multi-lang [here](https://github.com/google-research/bert/blob/master/multilingual.md)
-        * ParsBERT [here](https://github.com/hooshvare/parsbert)
+ - the Best language model for farsi:
+    * Offical BERT multi-lang [here](https://github.com/google-research/bert/blob/master/multilingual.md)
+    * ParsBERT [here](https://github.com/hooshvare/parsbert)
+       
         
 
 
