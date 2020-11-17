@@ -2,6 +2,7 @@
 
 # Research:
 ## Speech Recognition(speech to text):
+- Speaker Recognition [it's noise or speech](https://keras.io/examples/audio/speaker_recognition_using_cnn/)
 - search for english
 - search for farsi and persion
 - add (python, pytorch, keras, tensorflow)
@@ -40,9 +41,8 @@
    
 ## Yo Yasin add your Session Here baby:
 
-## Safar
-text-to-speech
-text mining or text analysis  : https://monkeylearn.com/text-analysis/
+## text-to-speech
+text mining or [text analysis](https://monkeylearn.com/text-analysis/)
 
 So totaly we have two part in TTS:
    - front-end
