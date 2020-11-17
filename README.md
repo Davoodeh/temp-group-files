@@ -10,6 +10,7 @@
 - Search in (Github, Paperwithcode, KDnuggets, Medium, Towardsdatascinece, YouTube)
 - then test your results
     - link below will be helpful "how to" have [Persian NLP](https://github.com/mhbashari/awesome-persian-nlp-ir)
+    - [Persian speech to text](https://github.com/AlisterTA/Persian-text-to-speech)
         
 
 ## TEXT-GEN dont change this it's mine :) :
