@@ -25,14 +25,17 @@ There are some Key Terms about "Hey NLP, well but... some key terms i should lea
 
 ## TEXT-GEN dont change this it's mine :) :
 - chat bot with transformers
-- state of the art Q/A
-- create a good tokenizer
-- my notes about NLP
+- check out state of the art 
+- my notes about NLP 
 
 - Search in (Github, Paperwithcode, KDnuggets, Medium, Towardsdatascinece, Youtube)
-- write your URLs here:
-    1. check this [channel](https://www.youtube.com/channel/UC5he3ZiPPZzjP_KZhq3LOHg/videos)
-    2. https://github.com/mhbashari/awesome-persian-nlp-ir
+    1. check out this [channel](https://www.youtube.com/channel/UC5he3ZiPPZzjP_KZhq3LOHg/videos)
+    2. best NLP res in farsi [repo](https://github.com/mhbashari/awesome-persian-nlp-ir)
+    
+ - In Lab:
+    - BERT -> RNN
+    - Create a Farsi text-cleaner
+    - train BERT with ktrain
 
  - the Best language model for farsi:
     * Offical BERT multi-lang [here](https://github.com/google-research/bert/blob/master/multilingual.md)
