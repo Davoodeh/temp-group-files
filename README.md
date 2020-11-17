@@ -12,7 +12,7 @@
 
     - write your URLs here:
     -- link below will be helpful "how to" have Persian NLP
-        1. https://github.com/mhbashari/awesome-persian-nlp-ir
+  [Persian NLP](https://github.com/mhbashari/awesome-persian-nlp-ir)
         
         
         
