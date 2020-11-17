@@ -11,6 +11,7 @@
 - then test your results
     - link below will be helpful "how to" have [Persian NLP](https://github.com/mhbashari/awesome-persian-nlp-ir)
     - [Persian speech to text](https://github.com/AlisterTA/Persian-text-to-speech)
+    - [Simple Speech to text prototype using google api](https://github.com/KiLJ4EdeN/Persian_Speech_To_Text)
         
 
 ## TEXT-GEN dont change this it's mine :) :
