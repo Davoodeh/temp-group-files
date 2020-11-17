@@ -43,7 +43,8 @@
 ## Safar
 text-to-speech
 text mining or text analysis  : https://monkeylearn.com/text-analysis/
-So totaly we have to part in TTS:
+
+So totaly we have two part in TTS:
    - front-end
    - back-end
 ### python libs:
