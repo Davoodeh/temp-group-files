@@ -22,6 +22,7 @@
 - Search in (Github, Paperwithcode, KDnuggets, Medium, Towardsdatascinece, Youtube)
     - best NLP res in farsi [repo](https://github.com/mhbashari/awesome-persian-nlp-ir)
     - best persian Tokenizer [Hazm](https://github.com/sobhe/hazm)
+    - search for persian or farsi NLP on (youtube, kaggle, github)
     
  - In Lab:
     - BERT -> RNN
